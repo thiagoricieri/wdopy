@@ -2,10 +2,10 @@
 # Data Library
 
 from os import walk
+import re
 
 # Variables
 _data_folder = "data/"
-
 
 # Data Loader
 class DataLoader():
@@ -25,13 +25,14 @@ class DataLoader():
     # Load only valid months for each
     # future stock symbol
     def load_month_folders(self):
-        folders = self.load_folders()
+        pf = self.load_folders()
+        folders = [f for f in pf if match_month(f)]
         return folders
 
     # Load every folder in data that correspond
     # to a month in the asset
     def load_folders(self):
-        months = [dirnames for (_, dirnames, _) in walk(_data_folder)].pop(0)
+        months = [dn for (_, dn, _) in walk(_data_folder)].pop(0)
         return months
 
     # Describe contents of data folder
@@ -41,3 +42,8 @@ class DataLoader():
             print("Dir Name {}".format(dirnames))
             print("File names {}".format(filenames))
             print("\n")
+
+
+# Validation / Utils
+def match_month(month):
+    return re.match(r'wdo([fghjkmnquvxz])(\d{2})', month, re.I | re.M)
