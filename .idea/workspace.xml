@@ -2,11 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="856aa1f4-d3ff-4585-a0ab-8ef0d5a1cc3c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-01-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-01-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-02-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-02-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-05-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-05-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-06-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-06-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-07-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-07-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-08-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-08-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-09-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-09-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-12-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-12-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-13-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-13-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-14-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-14-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-15-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-15-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-16-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-16-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-19-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-19-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-20-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-20-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-21-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-21-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-22-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-22-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-23-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-23-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-26-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-26-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-27-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-27-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-28-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-28-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-29-dec.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-29-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdof17/WDOF7-30-nov.csv" afterPath="$PROJECT_DIR$/data/wdof17/WDOF7-30-nov.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-02-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-02-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-03-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-03-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-04-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-04-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-05-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-05-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-06-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-06-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-09-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-09-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-10-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-10-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-11-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-11-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-12-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-12-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-13-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-13-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-16-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-16-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-17-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-17-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-18-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-18-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-19-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-19-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-20-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-20-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-23-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-23-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-24-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-24-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-26-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-26-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-27-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-27-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-29-dec.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-29-dec.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-30-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-30-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdog17/WDOG7-31-jan.csv" afterPath="$PROJECT_DIR$/data/wdog17/WDOG7-31-jan.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-02-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-02-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-03-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-03-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-04-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-04-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-05-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-05-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-06-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-06-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-09-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-09-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-10-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-10-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-11-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-11-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-12-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-12-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-15-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-15-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-16-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-16-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-17-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-17-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-18-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-18-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-19-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-19-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-20-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-20-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-23-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-23-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-24-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-24-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-25-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-25-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-27-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-27-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-29-apr.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-29-apr.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-30-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-30-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdom16/WDOM16-31-may.csv" afterPath="$PROJECT_DIR$/data/wdom16/WDOM16-31-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-01-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-01-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-02-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-02-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-03-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-03-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-06-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-06-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-07-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-07-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-08-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-08-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-09-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-09-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-10-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-10-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-13-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-13-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-14-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-14-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-15-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-15-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-16-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-16-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-17-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-17-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-20-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-20-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-21-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-21-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-22-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-22-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-23-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-23-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-24-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-24-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-27-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-27-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-28-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-28-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-29-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-29-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-30-jun.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-30-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdon16/WDON16-31-may.csv" afterPath="$PROJECT_DIR$/data/wdon16/WDON16-31-may.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-01-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-01-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-04-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-04-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-05-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-05-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-06-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-06-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-07-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-07-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-08-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-08-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-11-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-11-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-12-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-12-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-13-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-13-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-14-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-14-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-15-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-15-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-18-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-18-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-19-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-19-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-20-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-20-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-21-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-21-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-22-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-22-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-25-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-25-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-26-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-26-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-27-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-27-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-28-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-28-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-29-jul.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-29-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoq16/WDOQ16-30-jun.csv" afterPath="$PROJECT_DIR$/data/wdoq16/WDOQ16-30-jun.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-01-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-01-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-02-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-02-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-03-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-03-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-04-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-04-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-05-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-05-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-08-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-08-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-09-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-09-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-10-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-10-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-11-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-11-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-12-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-12-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-15-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-15-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-16-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-16-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-17-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-17-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-18-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-18-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-19-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-19-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-22-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-22-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-23-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-23-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-24-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-24-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-25-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-25-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-26-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-26-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-29-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-29-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-29-jul.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-29-jul.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-30-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-30-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdou16/WDOU16-31-aug.csv" afterPath="$PROJECT_DIR$/data/wdou16/WDOU16-31-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-01-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-01-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-02-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-02-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-05-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-05-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-06-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-06-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-08-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-08-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-09-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-09-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-12-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-12-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-13-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-13-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-14-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-14-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-15-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-15-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-16-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-16-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-19-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-19-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-20-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-20-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-21-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-21-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-22-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-22-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-23-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-23-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-26-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-26-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-27-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-27-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-28-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-28-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-29-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-29-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-30-sep.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-30-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdov16/WDOV16-31-aug.csv" afterPath="$PROJECT_DIR$/data/wdov16/WDOV16-31-aug.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-03-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-03-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-04-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-04-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-05-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-05-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-06-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-06-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-07-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-07-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-10-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-10-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-11-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-11-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-13-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-13-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-14-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-14-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-17-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-17-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-18-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-18-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-19-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-19-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-20-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-20-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-21-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-21-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-24-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-24-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-25-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-25-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-26-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-26-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-27-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-27-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-28-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-28-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-30-sep.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-30-sep.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdox16/WDOX16-31-oct.csv" afterPath="$PROJECT_DIR$/data/wdox16/WDOX16-31-oct.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-01-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-01-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-03-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-03-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-04-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-04-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-07-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-07-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-08-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-08-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-09-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-09-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-10-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-10-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-11-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-11-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-14-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-14-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-16-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-16-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-17-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-17-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-18-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-18-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-21-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-21-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-22-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-22-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-23-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-23-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-24-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-24-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-25-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-25-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-28-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-28-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-29-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-29-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-30-nov.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-30-nov.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/wdoz16/WDOZ16-31-oct.csv" afterPath="$PROJECT_DIR$/data/wdoz16/WDOZ16-31-oct.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Dolar-2017-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Dolar-2017-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dolar-2017.ipynb" afterPath="$PROJECT_DIR$/Dolar-2017.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbol.py" afterPath="$PROJECT_DIR$/symbol.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +224,8 @@
       <file leaf-file-name="symbol.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/symbol.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+            <state relative-caret-position="780">
+              <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
               <folding>
                 <element signature="e#19#28#0" expanded="true" />
               </folding>
@@ -50,8 +247,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="23" />
+    <option name="x" value="609" />
+    <option name="y" value="22" />
     <option name="width" value="960" />
     <option name="height" value="1173" />
   </component>
@@ -70,7 +267,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -86,6 +282,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,13 +451,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="23" width="960" height="1173" extended-state="0" />
-    <editor active="false" />
+    <frame x="609" y="22" width="960" height="1173" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -272,6 +468,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -284,26 +481,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data.py">
+    <entry file="file://$PROJECT_DIR$/symbol.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#19#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/symbol.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.py" />
+    <entry file="file://$PROJECT_DIR$/data.py" />
+    <entry file="file://$PROJECT_DIR$/symbol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
           <folding>
             <element signature="e#19#28#0" expanded="true" />
           </folding>
